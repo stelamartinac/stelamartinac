@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/*CSS Document */
+p {
+  color: green;
+  font-family: monospace;
+  font-size: 16px;
+  line-height: 18px;
+  width: 600px;
+  padding: 20px;
+}
+h1, h2 {
+  font-family: monospace;
+  color: red;
+  }
+body {
+  background-image: url("slike/dubrovnik.jpeg");
+  }
+a:link {
+  color: black;
+  background-color: white;
+  padding: 5px;
+  line-height: 40px;
+  border: 1px solid #000000;
+}
+a:hover {
+background-color: crimson;
+}
+img {
+  height: 200px;
+}
+video {
+  height: 200px;
+}
+inframe {
+  height: 200px;
+}
